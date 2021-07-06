@@ -95,10 +95,10 @@ html{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/IMG_2967.jpeg ") no-repeat center;
+    background: url("https://raw.githubusercontent.com/puhung/FirstPortfolioTest/main/images/IMG_2967.jpeg") no-repeat center;
     background-size: 1108px, 1478px;
     height: 100vh;
-    color: #fff;
+    color: #111;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
 }
